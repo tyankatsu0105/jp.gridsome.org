@@ -1,0 +1,77 @@
+- title: Introduction
+  items:
+    - title: Quick start
+      link: /docs
+    - title: How it works
+      link: /docs/how-it-works
+    - title: Starter kits
+      link: /docs/starters
+    - title: Deployment
+      link: /docs/deployment
+
+- title : BASIC
+  items:
+    - title: Directory structure
+      link: /docs/directory-structure
+    - title: GraphQL layer
+      link: /docs/graphql
+    - title: Pages
+      link: /docs/pages
+    - title: Templates
+      link: /docs/templates
+    - title: Layouts
+      link: /docs/layouts
+    - title: Components
+      link: /docs/components
+
+
+- title: Components
+  items:
+    - title: Link
+      link: /docs/link
+    - title: Image
+      link: /docs/image
+    - title: Pagination
+      link: /docs/pagination
+
+
+- title: Guides
+  items:
+    - title: Install plugins
+      link: /docs/install-plugins
+    - title: Custom CSS
+      link: /docs/custom-css
+    - title: Inlining critical CSS
+      link: /docs/critical-css
+    - title: Custom fonts
+      link: /docs/custom-fonts
+    - title: Custom head meta
+      link: /docs/custom-head-meta
+
+- title: API
+  items: 
+    - title: Project configuration
+      link: /docs/config
+    - title: Gridsome CLI
+      link: /docs/gridsome-cli
+    - title: Server API
+      link: /docs/server-api
+    - title: Data Store API
+      link: /docs/data-store-api
+    - title: Client API
+      link: /docs/client-api
+    - title: Page Meta API
+      link: /docs/page-meta-api
+
+- title: Deploy
+  items:
+    - title: Netlify
+      link: /docs/deploy-to-netlify
+    - title: Zeit Now
+      link: /docs/deploy-to-zeit-now
+    - title: Amazon S3
+      link: /docs/deploy-to-amazon-s3
+    - title: GitHub Pages
+      link: /docs/deploy-to-github-pages
+    - title: GitLab Pages
+      link: /docs/deploy-to-gitlab-pages
